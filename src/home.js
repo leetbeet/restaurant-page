@@ -26,5 +26,6 @@ export const loadHome = () => {
     locationDesc.textContent = "Via delle Rose 18, Florence, Italy";
 
     const content = document.querySelector("#content");
+    content.innerHTML = "";
     content.append(aboutHeader, aboutDesc, img, hoursHeader, hoursList, locationHeader, locationDesc);
 }

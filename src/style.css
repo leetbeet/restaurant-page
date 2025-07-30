@@ -49,16 +49,13 @@ button:active {
     width: 50vw;
 }
 
-#content p,
-#content h2,
-#content ul {
-    text-align: left;
+h2 {
     margin-bottom: 2px;
 }
 
-#content > p,
-#content > ul {
-    margin-bottom: 8px;
+p,
+ul {
+    margin-bottom: 24px;
 }
 
 ul {

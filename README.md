@@ -1,4 +1,4 @@
-# Tramonto – Restaurant Page  
+# Restaurant Page  
 A simple multi-page restaurant website built with JavaScript and Webpack.  
 Image is from freepik.com
 

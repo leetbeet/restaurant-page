@@ -27,5 +27,13 @@ export const loadHome = () => {
 
     const content = document.querySelector("#content");
     content.innerHTML = "";
-    content.append(aboutHeader, aboutDesc, img, hoursHeader, hoursList, locationHeader, locationDesc);
+    content.append(
+        aboutHeader, 
+        aboutDesc, 
+        img, 
+        hoursHeader, 
+        hoursList, 
+        locationHeader, 
+        locationDesc
+    );
 }
